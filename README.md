@@ -57,7 +57,7 @@ A Flutter-based admin dashboard for managing doctors, categories, appointments, 
 ### 🚗 Rent App
 A car rental mobile application built with Flutter using BLoC and Firebase, featuring booking flow, authentication, and clean UI.
 
-🔗 (Add your repo link here)
+🔗 https://github.com/majd604/rent_app
 
 ---
 
