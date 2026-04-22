@@ -20,6 +20,7 @@ I build modern mobile applications using Flutter with clean architecture and sca
 - REST APIs
 - Stripe Payments
 - Cloudinary
+- Bloc
 
 ---
 
@@ -38,6 +39,10 @@ Food ordering mobile application connected to a real API with cart, checkout and
 🔗 https://github.com/majd604/hungry-flutter-app
 
 ---
+
+###🏥 Doctor Appointment App
+
+ 
 
 ## 📫 Contact Me
 
